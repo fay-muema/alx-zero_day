@@ -1,2 +1,2 @@
 New directory 
-hello there
+hello
